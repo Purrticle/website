@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <main>
-      <h1>Your Team Name</h1>
+      <h1>Purrticle</h1>
       <p>
-        We build open-source tools for ____.
+        We build open-source tools for Robotics.
       </p>
     </main>
   );
